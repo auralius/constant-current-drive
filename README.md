@@ -17,4 +17,4 @@ Note: replace IRF540 with IRFZ44N
 
 <img src="./bidirectional_drive/prototype.png" width="600">
 
-<img src="./bidirectional_drive/schematic.png" width="1000">
+<img src="./bidirectional_drive/schematic.png" width="700">
